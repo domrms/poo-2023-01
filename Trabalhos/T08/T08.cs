@@ -11,7 +11,7 @@
         {
             public class LingaguemProgracao { };
 
-            public LingaguemProgracao[] lingaguemProgracao { get; set; }
+            public List<LingaguemProgracao> lingaguemProgracao { get; set; }
         }
 
         public class Escola
@@ -43,5 +43,8 @@
                 escola.endereco.bairro = "BAIRRO NENHUM";
             }
         }
+
+
+
     }
 }
