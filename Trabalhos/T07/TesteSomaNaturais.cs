@@ -1,8 +1,8 @@
-﻿namespace Trabalhos
+﻿namespace Trabalhos.T07
 {
     public class TesteSomaNaturais
     {
-        public static long SomaNaturais (int n)
+        public static long SomaNaturais(int n)
         {
             int c = 1;
             long s = 0;
