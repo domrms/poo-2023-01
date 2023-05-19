@@ -2,5 +2,11 @@
 {
     public class Base
     {
+        public string projetoBase;
+
+        public void metodo()
+        {
+
+        }
     }
 }
