@@ -4,7 +4,7 @@
     {
         public string projetoBase;
 
-        public void metodo()
+        public static void metodo()
         {
 
         }

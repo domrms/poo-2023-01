@@ -1,11 +1,12 @@
 ﻿namespace Trabalhos.T07
 {
-    public class ProvaComInterface : IIdentificacao
+    public class ProvaComInterface
     {
-        public class Prova {
-            void GetNome() { }
+        public class Prova : IIdentificacao
+        {
+            public void GetNome() { }
             public byte numQuestoes { get; set; }
-           
+
         }
     }
 }

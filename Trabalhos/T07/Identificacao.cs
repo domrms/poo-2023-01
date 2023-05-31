@@ -4,6 +4,6 @@ namespace Trabalhos.T07
 {
     public interface IIdentificacao
     {
-         void GetNome();
+         public void GetNome();
     }
 }

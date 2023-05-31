@@ -1,7 +1,12 @@
-﻿namespace Trabalhos.T07
+﻿using System;
+
+namespace Trabalhos.T07
 {
     public class Derivada : Base
     {
-        Base.metodo();
+        public static void DerivadaHerdaBase() 
+        {
+            metodo();
+        }
     }
 }
