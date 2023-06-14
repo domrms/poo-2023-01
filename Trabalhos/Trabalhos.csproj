@@ -6,4 +6,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="T12\" />
+    <Folder Include="T11\" />
+    <Folder Include="T10\" />
+    <Folder Include="T09\" />
+  </ItemGroup>
+
 </Project>
