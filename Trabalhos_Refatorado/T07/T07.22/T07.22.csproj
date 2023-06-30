@@ -2,10 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
-    <RootNamespace>T07._21</RootNamespace>
+    <RootNamespace>T07._22</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <OutputType>Exe</OutputType>
   </PropertyGroup>
 
 </Project>

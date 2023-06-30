@@ -216,7 +216,6 @@ Não se confunde com herança. Quando uma classe implementa uma interface, então e
 
 ### Interface
 
-### T07.29
 A interface _Identificacao_ para indicar que, qualquer classe que a implementa,
 pode receber a mensagem _getNome_.
 
@@ -224,28 +223,27 @@ pode receber a mensagem _getNome_.
 
 ### Interface _Comparable_
 
-### T07.30
+### T07.29
 Em Java, pode-se ordenar instâncias de objetos via [Collections](<https://docs.oracle.com/javase/7/docs/api/java/util/Collections.html#sort(java.util.List)>). Como é possível estar implementada a ordenação de objetos
 de uma dada classe que nem era conhecida quando a ordenação foi implementada? Há alternativas em Java, a clássica é implementar a interface
 [Comparable](https://docs.oracle.com/javase/7/docs/api/java/lang/Comparable.html), conforme ilustrado abaixo.
 
 <img src="https://github.com/kyriosdata/oo/blob/master/media/uml-java-interface-nota-comparable.png" width="300px">
 
-### T07.31
+### T07.30
 Abaixo segue uma representação alternativa àquela acima.
 
 <img src="https://github.com/kyriosdata/oo/blob/master/media/uml-java-interface-nota-comparable2.png" width="200px">
 
 ### Package
 
-### T07.32
+### T07.31
 A orientação a objetos oferece o conceito de classe para decompor software.
 Alguns domínios, contudo, são extensos e várias classes podem ser necessárias para registrar parte do domínio em questão. Em Java, várias
 classes "coesas" podem ser agrupadas usando a noção de _package_. Abaixo segue a ilustração de um _package_.
 
 <img src="https://github.com/kyriosdata/oo/blob/master/media/uml-java-package.png" width="300px">
 
-### T07.33
 No domínio acadêmico, por exemplo, várias classes pertinentes ao ensino, em geral, podem estar no _package_ denominado _ensino_, conforme abaixo. Em tal _package_ são esperadas classes como _Aluno_, _Avaliação_ e outras. No _package_ denominado _escola_, por outro lado, que depende de _ensino_, ou seja, faz uso de classes deste _package_, são esperadas classes como
 _Colaborador_, _Diretoria_ e outras.
 
