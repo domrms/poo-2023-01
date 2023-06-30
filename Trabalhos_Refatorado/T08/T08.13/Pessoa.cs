@@ -1,6 +1,6 @@
 ﻿namespace T08._13
 {
-    public class Class1
+    public class Pessoa
     {
 
     }
