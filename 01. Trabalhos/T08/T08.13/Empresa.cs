@@ -1,12 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace T08._13
+﻿namespace T08._13
 {
-    internal class Empresa
+    public class Empresa
     {
+        public string Nome { get; set; }
+        public List<Pessoa> Empregados { get; } = new List<Pessoa>();
+
+        public void Contratar(Pessoa pessoa)
+        {
+            Empregados.Add(pessoa);
+            pessoa.AdicionarEmpregador(this);
+        }
     }
 }
