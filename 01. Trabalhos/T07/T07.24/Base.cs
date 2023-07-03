@@ -8,5 +8,7 @@
         {
 
         }
+
+        public static void Main() { }
     }
 }

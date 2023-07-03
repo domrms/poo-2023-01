@@ -6,6 +6,7 @@
     <RootNamespace>T07._16</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	<OutputType>Exe</OutputType>
   </PropertyGroup>
 
 </Project>

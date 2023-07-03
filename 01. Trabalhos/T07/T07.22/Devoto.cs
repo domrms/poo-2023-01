@@ -6,5 +6,7 @@
         {
             r.novoFiel(this);
         }
+
+        public static void Main() { }
     }
 }

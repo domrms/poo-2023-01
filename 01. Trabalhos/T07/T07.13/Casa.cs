@@ -4,7 +4,12 @@
     {
         public Casa()
         {
-            //Console.WriteLine("Mais uma casa!");
+        
+        }
+        public static void Main()
+        {
+
+            Console.WriteLine("Mais uma casa!");
         }
     }
 }

@@ -2,6 +2,7 @@
 {
     public abstract class Pessoa
     {
+        public static void Main() { }
 
     }
 }

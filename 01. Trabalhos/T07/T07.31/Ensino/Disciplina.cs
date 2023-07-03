@@ -2,5 +2,6 @@
 {
     public class Disciplina
     {
+        public static void Main() { }
     }
 }

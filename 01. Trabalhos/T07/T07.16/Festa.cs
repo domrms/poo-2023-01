@@ -15,5 +15,7 @@ namespace T07._16
         {
             convidados.Add(c, c);
         }
+
+        public static void Main() { }
     }
 }

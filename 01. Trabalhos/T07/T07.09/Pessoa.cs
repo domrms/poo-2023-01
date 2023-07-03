@@ -6,5 +6,7 @@
         private string nome;
         private Pessoa pai;
         private Pessoa mae;
+
+        public static void Main() { }
     }
 }

@@ -2,6 +2,7 @@
 {
     public class Livro
     {
+        public static void Main() { }
 
     }
 }

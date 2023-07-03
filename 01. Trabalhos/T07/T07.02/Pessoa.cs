@@ -2,6 +2,6 @@
 {
     public class Pessoa
     {
-
+        public static void Main() {}
     }
 }

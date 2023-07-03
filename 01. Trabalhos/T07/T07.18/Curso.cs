@@ -3,5 +3,7 @@
     public class Curso
     {
         private Aluno[] alunos;
+
+        public static void Main() { }
     }
 }

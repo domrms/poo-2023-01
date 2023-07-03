@@ -2,6 +2,7 @@
 {
     public class Aluno : Pessoa
     {
+        public static void Main() { }
 
     }
 }

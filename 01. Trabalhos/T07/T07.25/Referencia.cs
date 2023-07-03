@@ -7,6 +7,7 @@
 
     class Revista : Referencia
     {
+        public static void Main() { }
 
     }
 }

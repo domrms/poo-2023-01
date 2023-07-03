@@ -4,5 +4,7 @@
     {
         public void getNome() { }
         public byte numQuestoes { get; set; }
+
+        public static void Main() { }
     }
 }
