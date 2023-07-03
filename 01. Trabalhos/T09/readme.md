@@ -42,7 +42,7 @@ Embora o modelo abaixo permita que uma instância de Usuário seja tratada como um
 
 ![modelo](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/kyriosdata/oo/master/imagens/modelos-02/mod02ima06/mod02ima06.plantuml)
 
-### T09.10
+### T09.07
 
 ### Um contêiner contém contêineres e objetos.
 
@@ -50,7 +50,7 @@ Embora o modelo abaixo permita que uma instância de Usuário seja tratada como um
 
 Observe que um contêiner agrega vários elementos. Ou seja, uma instância de Contêiner está associada, possivelmente, a vários objetos da classe Elemento. Estes objetos "fazem parte" (agregação) do contêiner em questão. Adicionalmente, o que é um Elemento? Um Elemento é herdado por Objeto e por Contêiner. Ou seja, quando se fala em um Elemento estamos falando ou de um Objeto ou de um Contêiner. Quando são reunidos vários objetos Elemento em um Contêiner, portanto, o que se tem "lá dentro" são instâncias de Objeto e/ou instâncias de Contêiner. 
 
-### T09.11
+### T09.08
 
 ### Caixeiro-viajante.
 
@@ -58,7 +58,7 @@ Um caixeiro-viajante faz uso de uma lista de cidades pelas quais terá que percor
 
 ![modelo](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/kyriosdata/oo/master/imagens/modelos-02/mod02ima08/mod02ima08.plantuml)
 
-### T09.12
+### T09.09
 
 ### Caixeiro-viajante e lista de pedidos.
 
@@ -66,7 +66,7 @@ Falta ao modelo acima informação pertinente aos pedidos colhidos em cada armazém
 
 ![modelo](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/kyriosdata/oo/master/imagens/modelos-02/mod02ima09/mod02ima09.plantuml)
 
-### T09.13
+### T09.10
 
 ### Cliente e fornecedor envolvem-se em transações econômicas.
 
