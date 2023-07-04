@@ -14,5 +14,7 @@
             Fim = fim;
             Empresa = empresa;
         }
+
+        public static void Main() { }
     }
 }
