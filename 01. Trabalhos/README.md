@@ -1,5 +1,5 @@
 # poo-2023-01
-Repositório da disciplina de Programação Orientada a Objetos.
+Repositório dos trabalhos da disciplina de Programação Orientada a Objetos.
 
 ## Requisitos
 
