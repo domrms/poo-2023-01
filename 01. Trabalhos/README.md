@@ -18,6 +18,7 @@ Antes de executar os projetos, você precisa ter o .NET Core instalado em sua m�
 
 1. Abra um terminal.
 2. Execute o seguinte comando para verificar se o .NET Core já está instalado:
+
 ```dotnet --version```
 
 Se uma versão for exibida, o .NET Core já está instalado. Caso contrário, siga os próximos passos.
