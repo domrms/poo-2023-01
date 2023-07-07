@@ -51,4 +51,4 @@ Certifique-se de que seu ambiente esteja configurado corretamente para cada trab
 
 Se você encontrar algum problema durante a instalação ou execução dos projetos, consulte a documentação oficial do .NET Core em https://docs.microsoft.com/dotnet/core para obter mais informações.
 
-Divirta-se explorando meus trabalho de POO!
+Divirta-se explorando meus trabalhos de POO!
