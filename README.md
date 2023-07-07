@@ -3,7 +3,13 @@ Repositório da disciplina de Programação Orientada a Objetos.
 
 ## Requisitos
 
-Antes de executar os projetos, você precisa ter o .NET Core instalado em sua máquina. Siga as instruções abaixo para instalá-lo por linha de comando:
+Antes de executar os projetos, você precisa ter o repositório baixado e o .NET Core instalado em sua máquina. Siga as instruções abaixo para instalá-lo por linha de comando:
+
+### Clone do Repositório
+
+1. Digite o seguinte comando no terminal:
+
+```git clone https://github.com/domrms/poo-2023-01.git```
 
 ### Instalação do .NET Core
 
