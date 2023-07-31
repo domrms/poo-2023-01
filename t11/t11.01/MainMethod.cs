@@ -1,4 +1,4 @@
-﻿namespace T11._01
+﻿namespace t11._01
 {
     public class MainMethod
     {

@@ -1,4 +1,4 @@
-﻿namespace T11._02
+﻿namespace t11._02
 {
     public class Cadeira
     {

@@ -1,4 +1,4 @@
-﻿namespace T11._06
+﻿namespace t11._06
 {
     public class ItemCompra
     {
