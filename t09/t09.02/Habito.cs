@@ -1,4 +1,4 @@
-﻿namespace T09._02
+﻿namespace t09._02
 {
     public class Habito
     {

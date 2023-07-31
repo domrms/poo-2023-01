@@ -1,4 +1,4 @@
-﻿namespace T09._06
+﻿namespace t09._06
 {
     public class Mamifero
     {
