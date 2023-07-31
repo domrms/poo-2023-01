@@ -1,0 +1,10 @@
+﻿namespace t07._28
+{
+    public class Prova : IIdentificacao
+    {
+        public void getNome() { }
+        public byte numQuestoes { get; set; }
+
+        public static void Main() { }
+    }
+}

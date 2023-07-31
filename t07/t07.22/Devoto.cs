@@ -1,0 +1,12 @@
+﻿namespace t07._22
+{
+    public class Devoto
+    {
+        public Devoto(Religiao r)
+        {
+            r.novoFiel(this);
+        }
+
+        public static void Main() { }
+    }
+}
