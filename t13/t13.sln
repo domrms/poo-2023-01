@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "t13.01", "t13.01\t13.01.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t13.02", "t13.02\t13.02.csproj", "{1AFD1B1A-A70C-495B-B767-53F8180B2BEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t13.03", "EncriptaSenha\t13.03.csproj", "{C7C7EC45-97C2-457C-B08B-4095CA9E3C2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t13.03", "t13.03\t13.03.csproj", "{C7C7EC45-97C2-457C-B08B-4095CA9E3C2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
