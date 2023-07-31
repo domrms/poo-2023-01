@@ -1,4 +1,4 @@
-﻿namespace T17._08
+﻿namespace t17._08
 {
     public class Program
     {

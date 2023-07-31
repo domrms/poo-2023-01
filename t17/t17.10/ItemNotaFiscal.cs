@@ -1,4 +1,4 @@
-﻿namespace T17._10
+﻿namespace t17._10
 {
     public class ItemNotaFiscal
     {

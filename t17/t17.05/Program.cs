@@ -1,4 +1,4 @@
-﻿namespace T17._05
+﻿namespace t17._05
 {
     public class Program
     {

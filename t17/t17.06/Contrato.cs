@@ -1,4 +1,4 @@
-﻿namespace T17._06
+﻿namespace t17._06
 {
     public class Contrato : Pagamento
     {

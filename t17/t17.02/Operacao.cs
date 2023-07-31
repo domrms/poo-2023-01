@@ -1,4 +1,4 @@
-﻿namespace T17._02
+﻿namespace t17._02
 {
     public class Operacao
     {

@@ -1,4 +1,4 @@
-﻿namespace T17._11
+﻿namespace t17._11
 {
     public class Aluno
     {
