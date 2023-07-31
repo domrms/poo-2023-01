@@ -1,4 +1,4 @@
-﻿namespace T08._04
+﻿namespace t08._04
 {
     public class Sentenca
     {

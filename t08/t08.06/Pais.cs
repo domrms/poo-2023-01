@@ -1,4 +1,4 @@
-﻿namespace T08._06
+﻿namespace t08._06
 {
     public class Pais
     {

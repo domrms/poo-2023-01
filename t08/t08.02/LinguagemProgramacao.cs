@@ -1,4 +1,4 @@
-﻿namespace T08._02
+﻿namespace t08._02
 {
     public class LinguagemProgramacao
     {

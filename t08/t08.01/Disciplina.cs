@@ -1,4 +1,4 @@
-﻿namespace T08._01
+﻿namespace t08._01
 {
     public class Disciplina
     {

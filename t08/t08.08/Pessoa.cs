@@ -1,4 +1,4 @@
-﻿namespace T08._08
+﻿namespace t08._08
 {
     public class Pessoa
     {
