@@ -35,6 +35,7 @@ Se uma versão for exibida, o .NET Core já está instalado. Caso contrário, si
 
 ## Executando os projetos
 
+#### NOTA: A partir do t19 não é necessário executar os programas.
 Após instalar o .NET Core, siga as etapas abaixo para executar os projetos:
 
 1. Navegue até a pasta do trabalho que deseja executar. Por exemplo:
