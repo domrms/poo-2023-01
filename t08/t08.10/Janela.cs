@@ -11,10 +11,9 @@
             Elementos.Add(new Botao());
             Elementos.Add(new Menu());
             Elementos.Add(new BarraRolagem());
-
         }
 
-        public static void Main() { }
-
+        public static void Main()
+        { }
     }
 }

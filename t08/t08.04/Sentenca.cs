@@ -2,7 +2,7 @@
 {
     public class Sentenca
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             // Criação do texto
             Texto texto = new Texto();

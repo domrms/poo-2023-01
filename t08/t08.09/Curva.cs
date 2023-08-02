@@ -9,7 +9,7 @@
             Pontos = new List<Ponto>();
         }
 
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Curva curva = new Curva();
 
@@ -22,6 +22,5 @@
             Ponto ponto3 = new Ponto() { X = 5, Y = 6 };
             curva.Pontos.Add(ponto3);
         }
-
     }
 }

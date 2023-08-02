@@ -10,7 +10,7 @@
             Cidades = new List<Cidade>();
         }
 
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Pais pais = new Pais();
             pais.Nome = "Brasil";

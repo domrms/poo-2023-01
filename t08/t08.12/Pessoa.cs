@@ -15,9 +15,9 @@
             Emprego = emprego;
         }
 
-        class Program
+        private class Program
         {
-            static void Main(string[] args)
+            private static void Main(string[] args)
             {
                 Empresa empresa1 = new Empresa("Empresa A");
                 Empresa empresa2 = new Empresa("Empresa B");
@@ -44,7 +44,6 @@
 
                 Console.ReadLine();
             }
-
         }
     }
 }

@@ -5,7 +5,7 @@
         public string Nome { get; set; }
         public Cidade Capital { get; set; }
 
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Pais pais = new Pais();
             pais.Nome = "Brasil";
@@ -17,6 +17,5 @@
             pais.Capital = cidade;
             Console.WriteLine(pais.Nome);
         }
-
     }
 }

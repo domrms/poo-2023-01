@@ -4,6 +4,7 @@
     {
         public List<LinguagemProgramacao> lingaguemprogramacao = new List<LinguagemProgramacao>();
 
-        public static void Main() { }
+        public static void Main()
+        { }
     }
 }

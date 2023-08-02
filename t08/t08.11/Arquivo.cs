@@ -8,6 +8,5 @@
         {
             Permissoes = new List<Permissao>();
         }
-
     }
 }

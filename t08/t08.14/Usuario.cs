@@ -15,6 +15,5 @@
         {
             Diretorios.Add(diretorio);
         }
-
     }
 }

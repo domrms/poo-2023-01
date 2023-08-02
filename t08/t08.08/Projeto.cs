@@ -9,7 +9,8 @@
         {
             PessoasEnvolvidas = new List<Pessoa>();
         }
-        static void Main(string[] args)
+
+        private static void Main(string[] args)
         {
             Projeto projeto = new Projeto();
             projeto.Nome = "Projeto A";
@@ -26,6 +27,5 @@
             pessoa3.Nome = "Carlos";
             projeto.PessoasEnvolvidas.Add(pessoa3);
         }
-
     }
 }

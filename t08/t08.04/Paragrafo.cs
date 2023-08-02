@@ -13,8 +13,8 @@
         {
             sentencas.Add(sentenca);
             ExibirParagrafo();
-
         }
+
         public void ExibirParagrafo()
         {
             foreach (string sentenca in sentencas)

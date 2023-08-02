@@ -4,6 +4,7 @@
     {
         public string nome { get; set; }
 
-        public static void Main() { }
+        public static void Main()
+        { }
     }
 }

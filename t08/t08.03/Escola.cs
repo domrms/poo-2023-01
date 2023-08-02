@@ -6,7 +6,7 @@
         public int capacidade;
         public Endereco endereco;
 
-        static void Main()
+        private static void Main()
         {
             Escola escola = new Escola();
             escola.nome = "ESCOLINHA ALIANÇA";
@@ -16,6 +16,5 @@
             escola.endereco.numero = 0;
             escola.endereco.bairro = "BAIRRO NENHUM";
         }
-
     }
 }
