@@ -2,6 +2,8 @@
 {
     public class Aeromoca : Tripulante
     {
-        public Aeromoca(string codigo) : base(codigo) { }
+        public Aeromoca(string codigo) : base(codigo)
+        {
+        }
     }
 }

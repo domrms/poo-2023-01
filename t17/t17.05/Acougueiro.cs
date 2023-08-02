@@ -2,7 +2,7 @@
 {
     public class Acougueiro : Trabalhador
     {
-        public Acougueiro() 
+        public Acougueiro()
         {
             Profissao = "Açougueiro";
         }

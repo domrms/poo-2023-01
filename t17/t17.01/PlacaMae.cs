@@ -2,9 +2,9 @@
 {
     public class PlacaMae
     {
-        public required Mouse Mouse { get; set; }
-        public required Teclado Teclado { get; set; }
-        public required Monitor Monitor { get; set; }
-        public required CPU CPU { get; set; }
+        public Mouse Mouse { get; set; }
+        public Teclado Teclado { get; set; }
+        public Monitor Monitor { get; set; }
+        public CPU CPU { get; set; }
     }
 }

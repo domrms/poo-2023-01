@@ -5,7 +5,7 @@
         public string Codigo { get; set; }
         public Passageiro Passageiro { get; private set; }
 
-        public  Lugar(string codigo)
+        public Lugar(string codigo)
         {
             Codigo = codigo;
         }

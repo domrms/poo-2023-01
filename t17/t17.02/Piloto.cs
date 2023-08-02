@@ -2,6 +2,8 @@
 {
     public class Piloto : Tripulante
     {
-        public Piloto(string codigo) : base(codigo) { }
+        public Piloto(string codigo) : base(codigo)
+        {
+        }
     }
 }

@@ -2,6 +2,6 @@
 {
     public class Computador
     {
-        public required PlacaMae PlacaMae { get; set; }
+        public PlacaMae PlacaMae { get; set; }
     }
 }

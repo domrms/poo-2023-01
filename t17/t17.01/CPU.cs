@@ -2,7 +2,7 @@
 {
     public class CPU
     {
-        public required Memoria Memoria { get; set; }
+        public Memoria Memoria { get; set; }
 
         public void AcessarMemoria()
         {

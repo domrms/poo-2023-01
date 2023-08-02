@@ -5,6 +5,7 @@
         Decolagem,
         Aterrissagem
     }
+
     public class Voo
     {
         public string Codigo { get; set; }
