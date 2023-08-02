@@ -4,8 +4,8 @@
     {
         public string Marca { get; set; }
         public string Modelo { get; set; }
-
     }
+
     public class HomemNaBicicleta
     {
         private Homem homem;
