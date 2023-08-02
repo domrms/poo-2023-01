@@ -21,7 +21,6 @@
 
         private void IniciarJogo()
         {
-          
         }
 
         public List<Rodada> Jogar()

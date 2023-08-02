@@ -6,6 +6,5 @@ namespace Feriados.Dia
     {
         public Date ano;
         public List<Dia> feriados;
-
     }
 }
