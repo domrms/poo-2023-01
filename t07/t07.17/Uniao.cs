@@ -18,7 +18,7 @@ namespace t07._17
             parceiros[1] = b;
         }
 
-        public static void Main() { }
-
+        public static void Main()
+        { }
     }
 }

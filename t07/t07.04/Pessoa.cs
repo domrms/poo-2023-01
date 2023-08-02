@@ -7,6 +7,7 @@
         private readonly Pessoa pai;
         private readonly Pessoa mae;
 
-        public static void Main() { }
+        public static void Main()
+        { }
     }
 }

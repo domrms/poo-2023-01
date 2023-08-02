@@ -11,6 +11,7 @@ namespace t07._21
             devotos.Add(d);
         }
 
-        public static void Main() { }
+        public static void Main()
+        { }
     }
 }

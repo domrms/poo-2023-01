@@ -4,6 +4,7 @@
     {
         private Aluno[] alunos;
 
-        public static void Main() { }
+        public static void Main()
+        { }
     }
 }

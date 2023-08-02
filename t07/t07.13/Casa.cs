@@ -4,11 +4,10 @@
     {
         public Casa()
         {
-        
         }
+
         public static void Main()
         {
-
             Console.WriteLine("Mais uma casa!");
         }
     }

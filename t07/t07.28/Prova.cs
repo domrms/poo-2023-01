@@ -2,9 +2,12 @@
 {
     public class Prova : IIdentificacao
     {
-        public void getNome() { }
+        public void getNome()
+        { }
+
         public byte numQuestoes { get; set; }
 
-        public static void Main() { }
+        public static void Main()
+        { }
     }
 }

@@ -10,6 +10,5 @@ namespace t07._22
         {
             devotos.Add(d);
         }
-
     }
 }

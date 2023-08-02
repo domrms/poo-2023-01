@@ -5,6 +5,7 @@
         public string nome;
         public string endereco;
 
-        public static void Main() { }
+        public static void Main()
+        { }
     }
 }

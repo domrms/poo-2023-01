@@ -1,4 +1,4 @@
-﻿    namespace t07._09
+﻿namespace t07._09
 {
     public class Pessoa
     {
@@ -7,6 +7,7 @@
         private Pessoa pai;
         private Pessoa mae;
 
-        public static void Main() { }
+        public static void Main()
+        { }
     }
 }

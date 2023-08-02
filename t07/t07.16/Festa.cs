@@ -2,7 +2,7 @@
 
 namespace t07._16
 {
-    public   class Festa
+    public class Festa
     {
         private SortedList convidados = new SortedList();
 
@@ -16,6 +16,7 @@ namespace t07._16
             convidados.Add(c, c);
         }
 
-        public static void Main() { }
+        public static void Main()
+        { }
     }
 }

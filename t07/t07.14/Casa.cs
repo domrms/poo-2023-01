@@ -11,6 +11,5 @@
             Casa c = new Casa();
             Console.WriteLine("Mais uma casa!");
         }
-
     }
-}   
+}

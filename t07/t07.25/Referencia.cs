@@ -2,12 +2,11 @@
 {
     public class Referencia
     {
-
     }
 
-    class Revista : Referencia
+    internal class Revista : Referencia
     {
-        public static void Main() { }
-
+        public static void Main()
+        { }
     }
 }
