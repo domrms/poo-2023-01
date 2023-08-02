@@ -5,7 +5,7 @@ namespace t13._03
 {
     public class EncriptaSenha
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Digite a senha: ");
             string password = Console.ReadLine();
@@ -16,7 +16,7 @@ namespace t13._03
             Console.ReadLine();
         }
 
-        static string EncryptPassword(string password)
+        private static string EncryptPassword(string password)
         {
             using (SHA256 sha256 = SHA256.Create())
             {

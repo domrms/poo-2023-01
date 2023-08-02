@@ -2,7 +2,7 @@
 {
     public class Calculadora
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             int num1, num2;
             Console.WriteLine("Digite o primeiro número inteiro: ");
@@ -36,14 +36,17 @@
                     result = num1 + num2;
                     Console.WriteLine("A soma dos números é: " + result);
                     break;
+
                 case 2:
                     result = num1 - num2;
                     Console.WriteLine("A subtração dos números é: " + result);
                     break;
+
                 case 3:
                     result = num1 * num2;
                     Console.WriteLine("A multiplicação dos números é: " + result);
                     break;
+
                 case 4:
                     if (num2 != 0)
                     {
