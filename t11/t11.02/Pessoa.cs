@@ -4,6 +4,5 @@
     {
         public string Nome { get; set; }
         public string Sexo { get; set; }
-
     }
 }
