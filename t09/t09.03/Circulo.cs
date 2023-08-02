@@ -18,6 +18,5 @@
             X += deslocamentoX;
             Y += deslocamentoY;
         }
-
     }
 }

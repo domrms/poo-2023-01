@@ -15,6 +15,5 @@
         {
             Centro.Transladar(deslocamentoX, deslocamentoY);
         }
-
     }
 }

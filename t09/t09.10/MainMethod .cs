@@ -2,7 +2,7 @@
 {
     public class MainMethod
     {
-        static void Main()
+        private static void Main()
         {
             // Criando os clientes
             Cliente cliente1 = new Cliente { Id = 1, Nome = "Cliente 1" };

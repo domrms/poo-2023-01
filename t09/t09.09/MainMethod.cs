@@ -2,7 +2,7 @@
 {
     public class MainMethod
     {
-        static void Main()
+        private static void Main()
         {
             // Criando os pedidos
             Pedido pedido1 = new Pedido { Id = 1, Descricao = "Pedido 1" };
